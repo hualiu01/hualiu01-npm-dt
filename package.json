@@ -1,0 +1,32 @@
+{
+  "name": "hualiu01-npm-dt",
+  "version": "1.0.2",
+  "description": "My first NPM lib which has some dates and time related functions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hualiu01/hualiu01-npm-dt.git"
+  },
+  "keywords": [
+    "hualiu01",
+    "first",
+    "npm",
+    "date",
+    "time",
+    "datetime",
+    "dt"
+  ],
+  "author": "hualiu01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hualiu01/hualiu01-npm-dt/issues"
+  },
+  "homepage": "https://github.com/hualiu01/hualiu01-npm-dt#readme",
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
